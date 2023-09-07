@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">loginactivity</string>
+    <string name="enter_your_first_name">Enter your first name</string>
+    <string name="welcome_to_imcc">Welcome to IMCC</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="enter_your_last_name">Enter your last name</string>
+    <string name="enter_your_email_id">Enter your email id</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="isha">isha</string>
+</resources>
